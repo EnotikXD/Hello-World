@@ -1,0 +1,2 @@
+#Токен
+TOKEN = "7070062861:AAFsL-BiesivWl0HLhBYvn2PvsqiC1grALU"
